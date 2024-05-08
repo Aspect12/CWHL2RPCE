@@ -3,7 +3,7 @@ As of March 2021, since the relicensing of Clockwork as MIT and the deprecation 
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg)](#contributors)
 [![HL2RP Hub Discord](https://img.shields.io/discord/1008102295491334154.svg)](https://discord.gg/hyPtDAF)
-[![GitHub issues](https://img.shields.io/github/issues-raw/cloudsixteen/hl2rp.svg)](https://github.com/Aspect12/CWHL2RPCE/issues)
+[![GitHub issues](https://img.shields.io/github/issues-raw/Aspect12/CWHL2RPCE.svg)](https://github.com/Aspect12/CWHL2RPCE/issues)
   
 > HL2RP was developed by `kurozael` in 2009 over various iterations of the core framework. The development and success of HL2RP ultimately lead to the creation of Cloud Sixteen.
 
