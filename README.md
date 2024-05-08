@@ -1,35 +1,18 @@
-# Clockwork: HL2RP is no longer being actively maintained.
+# Clockwork HL2RP: Community Edition
+As of March 2021, since the relicensing of Clockwork as MIT and the deprecation of CloudAuthX, the Clockwork: HL2RP schema is no longer being actively maintained, supported, or developed. This is a simple fork for managing pull requests.
 
-As of March 2021, since the relicensing of Clockwork as MIT and the deprecation of CloudAuthX, the Clockwork: HL2RP schema is no longer being actively maintained, supported, or developed. Contributors are welcome to fork their own maintaned version of Clockwork: HL2RP, as well as open pull requests.
-
-# HL2RP
 [![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg)](#contributors)
-[![Latest Release](https://img.shields.io/github/release/cloudsixteen/hl2rp.svg)](https://github.com/CloudSixteen/Clockwork/releases/latest)
-[![Discord](https://img.shields.io/discord/126667779095920640.svg)](https://discord.gg/EEg47Dw)
-[![Open Collective sponsors](https://img.shields.io/opencollective/sponsors/cloudsixteen.svg)](https://opencollective.com/cloudsixteen)
-[![GitHub issues](https://img.shields.io/github/issues-raw/cloudsixteen/hl2rp.svg)](https://github.com/cloudsixteen/hl2rp/issues)
+[![HL2RP Hub Discord](https://img.shields.io/discord/1008102295491334154.svg)](https://discord.gg/hyPtDAF)
+[![GitHub issues](https://img.shields.io/github/issues-raw/cloudsixteen/hl2rp.svg)](https://github.com/Aspect12/CWHL2RPCE/issues)
   
 > HL2RP was developed by `kurozael` in 2009 over various iterations of the core framework. The development and success of HL2RP ultimately lead to the creation of Cloud Sixteen.
 
 A roleplaying schema by Cloud Sixteen set in the Half-Life universe.
 
-## Buy HL2RP
-
-If you wish to [buy HL2RP](http://store.cloudsixteen.com/cart.php) for your Garry's Mod server, you can visit the [Cloud Sixteen Store](https://store.cloudsixteen.com).
-
-## Installation
-
-* [Cloud Sixteen Wiki](https://wiki.cloudsixteen.com)
-
-## Community
-
-* [Cloud Sixteen Forums](https://eden.cloudsixteen.com)  
-* [Cloud Sixteen Discord](https://discord.gg/gGsSSZj)
-
 ### See Also
 
-* https://github.com/cloudsixteen/clockwork/
-* https://cloudsixteen.com
+* https://github.com/Aspect12/ClockworkCE/
+* https://hl2rp.net
 
 ## Contributors ✨
 
